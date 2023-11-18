@@ -1,0 +1,4 @@
+This object has a total of 12 deformation patterns, 
+and a program is given to draw a figure showing the model.
+
+The main program for drawing object models is "Plot_polyhedron".
