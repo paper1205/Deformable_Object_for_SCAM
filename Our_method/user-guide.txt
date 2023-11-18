@@ -1,0 +1,13 @@
+We provide a procedure to validate our method. 
+The object of the SCAM task is the polyhedral data set.
+
+The main program is “Main”;
+
+Some programs for drawing object model:
+1)Plot_base_New_experiment;2)Plot_object_deform_parts_experiment;
+3)drawColoredQuadrilateral;4)drawCuboid
+
+Some programs for drawing camera model:
+1)World2Camera; 2)Draw_Stereo_Camera
+
+I apologize for the delay in updating the code comments to English due to my heavy workload with tight deadlines. When I have available time, I will revise the comments and refine the code to enhance the program's readability.
