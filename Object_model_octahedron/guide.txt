@@ -1,0 +1,2 @@
+This object has a total of 16 deformation patterns, 
+and a program is given to draw a figure showing the model.
